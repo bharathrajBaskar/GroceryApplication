@@ -1,0 +1,22 @@
+PODS:
+  - CBFlashyTabBarController (0.8.3)
+  - SDWebImage (5.19.2):
+    - SDWebImage/Core (= 5.19.2)
+  - SDWebImage/Core (5.19.2)
+
+DEPENDENCIES:
+  - CBFlashyTabBarController
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - CBFlashyTabBarController
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  CBFlashyTabBarController: bc6b11dd4cbc9b54785c8944156e2f4d4f03b088
+  SDWebImage: dfe95b2466a9823cf9f0c6d01217c06550d7b29a
+
+PODFILE CHECKSUM: d3ad5eb1491a1f1245f9fa0b6543d0e564eb2e2e
+
+COCOAPODS: 1.15.2
